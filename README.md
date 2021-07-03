@@ -1,5 +1,14 @@
+[!Linkedin Badge]
 ### Hi there 👋
+I am a B.Tech student.🌱 I am currently learning Full stack web development along with my studies. 
+Programming languages which I know:
+1) C++(Intermediate)
+2) Python(Intermediate)
+3) JavaScript(Beginner)
+Other skills:
+HTML, CSS
 
+📫You can reach me at nagadeepak511@gmail.com
 <!--
 **nagadeepak511/nagadeepak511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
