@@ -1,4 +1,4 @@
-[!Linkedin Badge]
+[![Linkedin Badge]()]
 ### Hi there 👋
 I am a B.Tech student.🌱 I am currently learning Full stack web development along with my studies. 
 Programming languages which I know:
