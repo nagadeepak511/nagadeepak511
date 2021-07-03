@@ -1,4 +1,4 @@
-[![Linkedin Badge]()]
+[![Linkedin Badge](https://www.linkedin.com/in/naga-deepak-kaza-4998a3210/)]
 ### Hi there 👋
 I am a B.Tech student.🌱 I am currently learning Full stack web development along with my studies. 
 Programming languages which I know:
