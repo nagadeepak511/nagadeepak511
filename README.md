@@ -1,4 +1,3 @@
-[![Linkedin Badge](https://www.linkedin.com/in/naga-deepak-kaza-4998a3210/)]
 ### Hi there 👋
 I am a B.Tech student.🌱 I am currently learning Full stack web development along with my studies. 
 Programming languages which I know:
@@ -8,7 +7,9 @@ Programming languages which I know:
 Other skills:
 HTML, CSS
 
-📫You can reach me at nagadeepak511@gmail.com
+📫You can reach me at:
+nagadeepak511@gmail.com
+https://www.linkedin.com/in/naga-deepak-kaza-4998a3210/
 <!--
 **nagadeepak511/nagadeepak511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
