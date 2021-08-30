@@ -6,7 +6,7 @@ Programming languages which I know:
 3) JavaScript(Beginner)
 
 Other skills:
-HTML, CSS
+HTML, CSS, DataStructures and algorithms(currently learning)
 
 📫You can reach me at:
 nagadeepak511@gmail.com
