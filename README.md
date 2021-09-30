@@ -1,12 +1,12 @@
 ### Hi there 👋
 I am a B.Tech student.🌱 I am currently learning Full stack web development along with my studies. 
 Programming languages which I know:
-1) C++(Intermediate)
-2) Python(Intermediate)
-3) JavaScript(Beginner)
+1) C++
+2) Python
+3) JavaScript -> node, express
 
 Other skills:
-HTML, CSS, DataStructures and algorithms(currently learning)
+HTML, CSS, DataStructures and algorithms, mongoDB and Bootstrap
 
 📫You can reach me at:
 nagadeepak511@gmail.com
