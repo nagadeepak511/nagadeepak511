@@ -1,12 +1,5 @@
 ### Hi there 👋
-I am a B.Tech student .
-Programming languages which I know:
-1) C++
-2) Python
-3) JavaScript -> node, express, reactjs
 
-Other skills:
-HTML, CSS, DataStructures and algorithms, mongoDB and Bootstrap
 
 📫You can reach me at:
 nagadeepak511@gmail.com
